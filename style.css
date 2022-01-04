@@ -32,7 +32,7 @@ h1{
     background-image: url(showoff/top-banner.png);
     background-repeat: no-repeat;
 }
-
+git
 .failure{
     background-image: url(showoff/dream-bg.png);
     background-repeat: no-repeat;
@@ -50,4 +50,15 @@ h1{
     padding: 20px;
     box-shadow: 10px 14px 16px 20px gray;
     border-radius: 15px;
+}
+#web-web{
+    border-left: 7px dotted rgb(19, 32, 209);
+   bor
+    border-image: 1;
+}#web-developer { 
+    border-left: 7px solid rebeccapurple;
+    border: 1;
+}
+footer p{
+    text-align: center;
 }

@@ -38,3 +38,16 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    background-image: url(showoff/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experiace-iteam{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 14px 16px 20px gray;
+    border-radius: 15px;
+}

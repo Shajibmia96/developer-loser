@@ -1,0 +1,33 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.colore-loser{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 50%;
+}
+.here{
+    background-color: rgb(20, 226, 47);
+    text-decoration: none;
+    background-image: linear-gradient(red ,orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;  
+}
+.top-bannar{
+    background-image: url(showoff/top-banner.png);
+    background-repeat: no-repeat;
+}
